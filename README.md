@@ -1,19 +1,34 @@
-<h1 align="center">Halo 👋, Saya Bayu Putra Tama</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryotaxd&label=Profile%20views&color=0e75b6&style=flat" alt="ryotaxd" /> </p>
+### Halo saya RyotaXD
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryotaxd" alt="ryotaxd" /></a> </p>
+Mau nanya-nanya skrip, atau kalau lu mau ngajak kolaborasi projek otomatisasi. Langsung gas colek aja cok, jangan sungkan!
 
-- 📫 Cara menghubungi saya **bayuputratama0a@gmail.com**
-
-<h3 align="left">Hubungi saya:</h3>
-<p align="left">
-<a href="https://fb.com/ryotaaaxd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bayu putra tama" height="30" width="40" /></a>
-<a href="https://instagram.com/v0lkent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v0lkent" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Bahasa dan Alat:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryotaxd&show_icons=true&locale=en" alt="ryotaxd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryotaxd&" alt="ryotaxd" /></p>
+<table>
+	<thead>
+		<tr>
+			<th align="center">Main Weapon</th>
+			<th align="center">Sosmed / Kontak</th>
+			<th align="center">Total Intipan Profil</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center">
+				<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+			</td>
+			<td align="left">
+				<a href="https://wa.me/62895634531073" target="_blank">
+					<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+				</a><br/>
+				<a href="https://facebook.com/ryotaaaxd0" target="_blank">
+					<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+				</a><br/>
+				<a href="mailto:bayuputratama0aa@gmail.com" target="_blank">
+					<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+				</a>
+			</td>
+			<td align="center">
+				<img src="https://komarev.com/ghpvc/?username=username_lu&color=blueviolet&style=for-the-badge&label=TOTAL+INTIPAN" alt="Views Counter" />
+			</td>
+		</tr>
+	</tbody>
+</table>
