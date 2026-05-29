@@ -7,7 +7,7 @@ Mau nanya-nanya skrip, atau kalau lu mau ngajak kolaborasi projek otomatisasi. L
 		<tr>
 			<th align="center">Main Weapon</th>
 			<th align="center">Sosmed / Kontak</th>
-			<th align="center">Total Intipan Profil</th>
+			<th align="center">Total View</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -27,7 +27,7 @@ Mau nanya-nanya skrip, atau kalau lu mau ngajak kolaborasi projek otomatisasi. L
 				</a>
 			</td>
 			<td align="center">
-				<img src="https://komarev.com/ghpvc/?username=username_lu&color=blueviolet&style=for-the-badge&label=TOTAL+INTIPAN" alt="Views Counter" />
+				<img src="https://komarev.com/ghpvc/?username=RyotaXD&color=blueviolet&style=for-the-badge&label=TOTAL+INTIPAN" alt="Views Counter" />
 			</td>
 		</tr>
 	</tbody>
